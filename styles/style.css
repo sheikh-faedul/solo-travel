@@ -1,5 +1,7 @@
+
 body{
-    margin: 0 2.5rem;
+    margin: 0 4rem;
+
 }
 
 /* header part */
@@ -21,3 +23,69 @@ body{
 }
 
 /* header part end */
+
+/* main section start */
+.popular-tour{
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+/* tour part end */
+
+/* destination part start */
+.destination-title{
+    text-align: center;
+}
+ /* choose-use */
+ .choose-title{
+    text-align: center;
+ }
+ .service-1{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+ }
+ .hotel{
+    height: 150px;
+    width: 300px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 1rem;
+ }
+ .service{
+    height: 150px;
+    width: 300px;
+    background-color:rgb(212, 231, 182);
+    border-radius: 10px;
+    padding: 1rem;
+ 
+ }
+ .service-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+ }
+ .price{
+    height: 150px;
+    width: 300px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 1rem;
+ }
+ .news{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+ }
+ .input-form{
+    display: flex;
+    flex-direction: column;
+ }
+ footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
