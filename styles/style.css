@@ -1,0 +1,23 @@
+body{
+    margin: 0 2.5rem;
+}
+
+/* header part */
+.header {
+    background-image: url(../Images/Group\ 13\ \(1\)\ \(1\).png);
+    height: 500px;
+    width: 992px;
+    margin: auto;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    background-color: tomato;
+    color: white;
+    border: none;
+}
+
+/* header part end */
