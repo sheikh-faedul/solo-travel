@@ -36,6 +36,18 @@ body{
 .destination-title{
     text-align: center;
 }
+.first-destination{
+   display: flex;
+   gap: 5px;
+}
+.second-destination{
+   display: flex;
+   gap: 10px;
+}
+.third-destination{
+   display: flex;
+   gap: 5px;
+}
  /* choose-use */
  .choose-title{
     text-align: center;
